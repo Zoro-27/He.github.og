@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+        background-image:url("https://img.freepik.com/free-vector/colorful-bokeh-effect-wallpaper_23-2148476714.jpg?w=1060&t=st=1704990783~exp=1704991383~hmac=f18cecd04a4da9c9fcc36449e91c8434b02a603f6ddae4b77be74961eee7161e");
+        height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    text-align: center;
+}
+
+
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 50px;
+    background-color: rgb(154, 21, 130);
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #ff1414;
+}
+
+button.proposal-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff1493;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
